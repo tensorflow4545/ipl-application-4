@@ -1,5 +1,3 @@
-import { motion } from "framer-motion";
-import { useNavigation } from "react-router-dom";
 import Button from "./ui/Button";
 export default function hero() {
   return (
